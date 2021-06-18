@@ -5,7 +5,7 @@ The currency APIs help you retrieve exchange rates and convert prices between cu
 This C# SDK is for the [Cloudmersive Currency API](https://www.cloudmersive.com/currency-api):
 
 - API version: v1
-- SDK version: 2.0.1
+- SDK version: 2.0.2
 - Build package: io.swagger.codegen.languages.CSharpClientCodegen
 
 <a name="frameworks-supported"></a>

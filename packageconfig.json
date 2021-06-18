@@ -1,7 +1,7 @@
 ﻿{
 
     "packageName": "Cloudmersive.APIClient.NETCore.Currency",
-    "packageVersion": "2.0.1",
+    "packageVersion": "2.0.2",
     "netCoreProjectFile": "true",
     "packageGuid": "0509374e-6aac-4754-b6e2-1674b62febc5",
     "targetFramework": "v5.0"
